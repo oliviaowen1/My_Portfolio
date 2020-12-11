@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand">Olivia Owen</a>
+            <a class="navbar-brand" href="./index.html">Home</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+              <a class="nav-link active" aria-current="page" href="./Portfolio.html">Portfolio</a>
+              <a class="nav-link active" aria-current="page" href="./contact.html">Contact</a>
+            </div>
+          </div>
+        </div>
+      </nav> 
+      <div class="row">
+          <div class="col-md-12">
+              <br>
+          </div>
+      </div>
+      <div class="row">
+      <div class="col-md-3">
+      </div>
+      <div class="col-md-6">
+      <h1>Contact Us!</h1>
+      <p>To contact us use the form below:</p>
+      <div class="input-group mb-3">
+        <label class="input-group-text" for="inputGroupSelect01">Options</label>
+        <select class="form-select" id="inputGroupSelect01">
+          <option selected>Please select your enquiry</option>
+          <option value="1">General</option>
+          <option value="2">Question about project</option>
+        </select>
+      </div>
+      <div class="mb-3">
+        <label for="fullName" class="form-label">First Name</label>
+        <input type="text" class="form-control" placeholder="Full name" aria-label="Username">
+        <label for="emailAddress" class="form-label">Email Address</label>
+        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+      </div>
+      <div class="mb-3">
+        <label for="exampleFormControlTextarea1" class="form-label">Please write your enquiry below: </label>
+        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+        <br>
+        <class="mb-3">
+            <label for="formFileMultiple" class="form-label">Please include any images you need:</label>
+            <input class="form-control" type="file" id="formFileMultiple" multiple>
+      </div>
+      <button class="btn btn-primary" type="submit">Submit form</button>
+    </div>
+</body>
+</html>
