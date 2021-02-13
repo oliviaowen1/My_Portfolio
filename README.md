@@ -17,6 +17,8 @@ For this assignment i have created a responsive portfolio. I have created a port
 In order to use this website you can do so by opening the link in any browser on any device. The Navigation bar will collapse when on a smaller screen however the links can still be accessed through the collapsed icon as well as through the footer and through my name on the navigation bar. 
 You would be able to edit or amend this by cloning through GitHub and using Visual Studio Code as the website is written using HTML and CSS.
 
+You can find the application here:   https://oliviaowen1.github.io/My_Portfolio/index.html
+
 ## Features
 I made the decision to include all of the links/buttons on the navigation bar into the collapsable list when the screen is smaller, so these are all organised and in one place. My name ("Olivia Owen") is also a button as this will take you back to the home page for quick and easy access. 
 I used Bootstrap to offset the columns on the webpage as to have the content centred when on a larger screen and to ensure it fills the width and height of the screen when accessing this on a smaller device also. This also mean i could minimise the use of media queries in not having to include more custom CSS on the page.
