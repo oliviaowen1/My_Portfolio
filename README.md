@@ -11,13 +11,13 @@
 
 
 ## Overview
-For this assignment i have created a responsive portfolio. I have created a portfolio that is individual and personalised to myself, which includes images of me, information about me as well as stock photos to hold the place of images until i am able to provide those of my own work. This website works and is reponsive on both xs screens as well as those that are larger. The content takes up the width of the xs screens and is centred on larger screens. 
+For this assignment i have created a responsive portfolio. I have created a portfolio that is individual and personalised to myself, which includes images of me, information about me as well as images of my own work. It also includes links to my CV, Github as well as email and phone. This website works and is reponsive on both xs screens as well as those that are larger. The content takes up the width of the xs screens and is centred on larger screens. 
 
 ## Installation
 In order to use this website you can do so by opening the link in any browser on any device. The Navigation bar will collapse when on a smaller screen however the links can still be accessed through the collapsed icon as well as through the footer and through my name on the navigation bar. 
 You would be able to edit or amend this by cloning through GitHub and using Visual Studio Code as the website is written using HTML and CSS.
 
-You can find the application here:   https://oliviaowen1.github.io/My_Portfolio/index.html
+You can find the application here:   https://oliviaowen1.github.io/My_Portfolio/
 
 ## Features
 I made the decision to include all of the links/buttons on the navigation bar into the collapsable list when the screen is smaller, so these are all organised and in one place. My name ("Olivia Owen") is also a button as this will take you back to the home page for quick and easy access. 
