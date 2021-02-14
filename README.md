@@ -25,15 +25,34 @@ I used Bootstrap to offset the columns on the webpage as to have the content cen
 There is however a custom CSS page linked with 3 elements being specifically altered, relating to changing the padding and margins of elements as well as background colour in order to have this fit on to different devices. If i were able to do this with Bootstrap i would have carried out the changes by using this.
 As you will be able to see below, i have added three card to the homepage, in time i aim to have these hold images of my work and be able to link them to specific projects, however i understand this will come as i build my portfolio. They currently hold stock images and link to my different pages, with the first/left taking you further down the page to the 'About Me' section, the second/middle taking you to the "Portfolio" page and the last/right taking you to the Contact Me page.
 
-![Screenshot of homepage](https://raw.githubusercontent.com/oliviaowen1/Homework_Week_3/main/assets/Screenshot%202020-12-13%20at%2013.27.14.png)
+![Screenshot of homepage](https://raw.githubusercontent.com/oliviaowen1/My_Portfolio/main/assets/Readme/1st%20Homepage.png)
 
-Below i have written a short piece on information about me and included a photograph with a Bootstrap border.
-The Portfolio page includes a carousel of stock images and a section of writing, which again be updated and expanded on with time. This was made using sub-rows in order to keep items required within one row but without having to seperate these into different rows.
-The Contact Me page includes a form i have created which allows people to fill in there information, along with a question and any attachments that they may want to include.
+Below i have written information about me and included buttons that will take you to either my CV, where you can download or read this and a button to take you to my Github profile.
+There are also three links to my work with images for each as well as a brief description and links to the deployed application as well as the Github repository for the application.
+
+![Screenshot of homepage](https://raw.githubusercontent.com/oliviaowen1/My_Portfolio/main/assets/Readme/2nd%20Homepage.png)
+
+The Portfolio page includes a carousel of images, which are screenshots of the linked projects. 
+
+![Screenshot of homepage](https://github.com/oliviaowen1/My_Portfolio/blob/main/assets/Readme/Portfolio%201.png)
+
+Below this you will find the links to these application within the cards, these again include images and a brief description and buttons to take you to the desired location.
+
+![Screenshot of homepage](https://github.com/oliviaowen1/My_Portfolio/blob/main/assets/Readme/Portfolio%202.png)
+
+The Contact Me page includes a form i have created which allows people to fill in there information, along with a question and any attachments that they may want to include. 
+
+![Screenshot of homepage](https://raw.githubusercontent.com/oliviaowen1/My_Portfolio/main/assets/Readme/Contact%201.png)
+
+You can alternatively use the cards at the bottom, to either contact me by email, which on click of the button will open a draft to my email. Or call instead, which upon click of the button will open the call function on your device with the number entered (in this case this is a fake number for privacy). The Github link will take you to my Github Profile where people are able to follow me.
+
+![Screenshot of homepage](https://raw.githubusercontent.com/oliviaowen1/My_Portfolio/main/assets/Readme/Contact%202.png)
+
 The footer is made using the 'Jumbotron' feature and this has been designed to match the rest of the webpage, as well as include navigation links for the other pages.
+![Screenshot of homepage](https://raw.githubusercontent.com/oliviaowen1/My_Portfolio/main/assets/Readme/Footer.png)
 Each of the HTML webpages and files were put through a HTML validator, in which each of the webpages now have no issues. The only problems that remain are those of the bootstrap elements, which i am unable to fix without changing the design of these.
 
-I very much enjoyed creating this piece of work and look forward to continuing to improve it in the future. 
+I very much enjoyed creating this piece of work and look forward to continually improve my portfolio. 
 
 
 ## Improvements
