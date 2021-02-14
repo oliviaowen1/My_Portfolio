@@ -39,3 +39,7 @@ background-color:#007bb5;
 .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
     background-color: dodgerblue;
 }
+
+.cardImgHoz {
+    margin: 10px;
+}
